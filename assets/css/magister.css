@@ -163,6 +163,18 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 		font-size:1.3em;
 	}
 }
+.data_text { 
+	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	margin-left: 20px; 
+	font-size:2em;
+	list-style-type:circle;
+}
+.data_head { 
+	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	font-size:4em;
+}
 
 
 /********************************************************/
